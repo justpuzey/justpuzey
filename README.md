@@ -4,7 +4,7 @@
 [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/) 
 -->
 
-# Justin Puzey Profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Justin Puzey Profile <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/224/sushi_1f363.png" width="40px">
 
 Name: Justin Puzey
 Location: Orlando, Fl
